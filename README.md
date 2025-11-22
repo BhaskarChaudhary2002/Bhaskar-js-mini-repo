@@ -32,6 +32,6 @@ HTML, CSS, JavaScript
 **Interactive Section 2**
 <img src="Screenshot (101).png">
 
-
 **Interactive Section 3**
+<img src="Screenshot (102).png">
 
