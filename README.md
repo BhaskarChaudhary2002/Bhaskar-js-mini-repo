@@ -21,3 +21,6 @@ HTML, CSS, JavaScript
 - Real-time feedback for user actions  
 
 ---
+## Screenshots
+
+**Homepage / Main Interface** 
