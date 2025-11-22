@@ -27,10 +27,10 @@ HTML, CSS, JavaScript
 <img src="Screenshot (99).png">
 
 **Interactive Section 1**
-<img scr="Screenshot (100).png">
+<img src="Screenshot (100).png">
 
 **Interactive Section 2**
-<img src="**Screenshot (101).png">
+
 
 **Interactive Section 3**
-<img src="**Screenshot (102).png">
+
