@@ -30,6 +30,7 @@ HTML, CSS, JavaScript
 <img src="Screenshot (100).png">
 
 **Interactive Section 2**
+<img src="Screenshot (101).png">
 
 
 **Interactive Section 3**
